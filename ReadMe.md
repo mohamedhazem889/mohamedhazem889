@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Hazem 👋
 
-### AI Engineer | Machine Learning | Deep Learning | Computer Vision
+### AI Engineer | Data Scientist
 
 I'm passionate about building intelligent solutions and turning ideas into real-world AI applications. I enjoy exploring new technologies, solving challenging problems, and continuously improving my skills.
 
